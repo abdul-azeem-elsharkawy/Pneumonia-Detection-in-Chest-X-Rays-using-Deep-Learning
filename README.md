@@ -40,31 +40,6 @@ We utilize a **pretrained ResNet18** model, modifying its final classification l
 👉 **Data Augmentation:** Random Rotation, Gaussian Blur, Horizontal Flip\
 👉 **Learning Rate Decay:** StepLR (reducing learning rate every 7 epochs)
 
----
-
-## 🔧 Installation & Setup
-
-### **1️⃣ Clone the Repository**
-
-```bash
-git clone https://github.com/yourusername/Pneumonia-Detection.git
-cd Pneumonia-Detection
-```
-
-### **2️⃣ Install Dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-### **3️⃣ Download Dataset (Kaggle)**
-
-Ensure you have the dataset downloaded inside the `data/` directory. You can manually add it or use Kaggle API:
-
-```bash
-kaggle datasets download -d paultimothymooney/chest-xray-pneumonia -p data/
-unzip data/chest-xray-pneumonia.zip -d data/
-```
 
 ---
 
@@ -94,8 +69,6 @@ python evaluate.py --model pneumonia_model.pth
 
 The evaluation script computes:\
 👉 **Test Accuracy**\
-👉 **Confusion Matrix**\
-👉 **Precision, Recall, and F1-Score**
 
 ---
 
@@ -110,7 +83,7 @@ python predict.py --image sample_xray.jpg --model pneumonia_model.pth
 👉 **Output:**
 
 ```
-Prediction: Pneumonia (Confidence: 97.3%)
+Prediction: Pneumonia (Confidence: ~96%)
 ```
 
 ---
@@ -125,27 +98,6 @@ Prediction: Pneumonia (Confidence: 97.3%)
 
 
 
----
-
-## 🚀 Future Enhancements
-
-👉 **Try deeper architectures** (ResNet50, DenseNet121)\
-👉 **Integrate Grad-CAM** for explainable AI in medical imaging\
-👉 **Optimize inference time** for real-world deployment\
-👉 **Deploy as a web app** using Flask or FastAPI
-
----
-
-## 🤝 Contributors
-
-- **Your Name** - [GitHub](https://github.com/yourusername)
-- **Other Contributors (If any)**
-
----
-
-## 📝 License
-
-This project is open-source under the **MIT License**.
 
 ---
 
