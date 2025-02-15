@@ -71,12 +71,14 @@ Evaluate the trained model on the test set:
 ![alt text](https://media-hosting.imagekit.io//473a0ca656914ee1/person1951_bacteria_4882.jpeg?Expires=1834220181&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=g7Q9yfWqKBFZwVWrL1dH75KCNn5KrBBTeLBAnwzohu97rCBAMb4cemjSn1ohvEUpfX8j-kdQjeWlROl-iLKNnPsLacVLfzil~nBEjy0YJ5TOqGk27CWiQww4hAb52kVjRwfm0RSd2jFHGAD9LBROvAvsajsG0IxhgS5PZ9aCtqTFpVTbp1SuED-2WJ8a~iASDUb7Lzc056eQHYnXxx7b64xj-g6EwyAVx1W~6d3HcVwqiYa2sfvENoZbzWN9r2PYiL35OG5zfvL6qwMJyTKzG7wGHK8VC3ZM9yUdA9CAklInj8wRhZIqpFHWHnWi1d2zFktsKpK~yX5ql~wh28RXaQ__)
 
 
+
+
 👉 **Output:**
 
-```
-Prediction: Pneumonia (Confidence: ~96%)
-```
+![alt text](https://media-hosting.imagekit.io//826ae31686914d39/Screenshot%202025-02-15%20113203.png?Expires=1834220519&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=HrXzgBECcK1Qd8Xvhl64y~Lc9MkkWYKt8tt7nOmAWbQaGfnnDLlwpwbS8-OXwFD0eJwPo5ItY~8WeUhBNujLGpxkacEthkSUGmZZIe-Pa7NE2RMwKBu5jfcK~~QIHTO-EjGWgvEOWzxUm-eivgvqlh-FIdH~bOjxMdb-4Pefwnnj9d1SkUI5PiL5XUpHHoCSmL4Hh6awfYriBNhxuYziSuzGIo5dtPYUn~BZrOn-JhgwgXcyXu1mchceJr9f-ybOZHBdsVz4~4HMVUDzhe0vKwN~yqPxUWHIcMh2e80LKMCsZPnHvkYbL~4xySPAkfN8CBltPUpo4ouqgtxhUpagDw__)
 
+
+![alt text](https://media-hosting.imagekit.io//b7d30dfc358e4e5a/Screenshot%202025-02-15%20113220.png?Expires=1834220504&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=W2igp1~CoZdB5bSx8U2BA6vNyJvZ0xY9if0nm56uPmDFXVXIQxFOhBvSYHQa2DXAuIHo5MW046PeT7BD5ka9oEBVntKZLCY0IaJwdtspl2fua8C4rieCPauYPHB7zDfOeH4qtWuZ0v1IsQtwekmuIOi5sD55yluel-R5e~yJsnnJTkob95aunuMAb04nu~y~CKmzI~NMyrJqjxh5MBqEHgRFMiMI7PJB7e7yg3IuOHSXjQlLjWOxO9Wxp67Jd7jdFl7U-0WCoHUm~st7NoIL8g7ekFNK2McG8Hp8HbfTzNc0hvhtb5BTAXjWFTf2QRXETA8qtDKKVCQgNjYwPqMdww__)
 ---
 
 ## 📈 Results
