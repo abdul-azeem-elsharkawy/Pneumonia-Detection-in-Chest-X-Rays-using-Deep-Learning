@@ -81,22 +81,7 @@ Evaluate the trained model on the test set:
 ![alt text](https://media-hosting.imagekit.io//b7d30dfc358e4e5a/Screenshot%202025-02-15%20113220.png?Expires=1834220504&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=W2igp1~CoZdB5bSx8U2BA6vNyJvZ0xY9if0nm56uPmDFXVXIQxFOhBvSYHQa2DXAuIHo5MW046PeT7BD5ka9oEBVntKZLCY0IaJwdtspl2fua8C4rieCPauYPHB7zDfOeH4qtWuZ0v1IsQtwekmuIOi5sD55yluel-R5e~yJsnnJTkob95aunuMAb04nu~y~CKmzI~NMyrJqjxh5MBqEHgRFMiMI7PJB7e7yg3IuOHSXjQlLjWOxO9Wxp67Jd7jdFl7U-0WCoHUm~st7NoIL8g7ekFNK2McG8Hp8HbfTzNc0hvhtb5BTAXjWFTf2QRXETA8qtDKKVCQgNjYwPqMdww__)
 ---
 
-## 📈 Results
-
-### **📌 Training vs. Test Accuracy Curve**
-
-
-
-### **📌 Confusion Matrix**
-
-
-
-
----
 
 ## 🌟 Acknowledgments
 
 Special thanks to **Kaggle** for providing the dataset and the open-source deep learning community for continuous support!
-
-```
-```
