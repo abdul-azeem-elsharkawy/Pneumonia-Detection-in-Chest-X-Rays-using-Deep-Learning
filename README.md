@@ -66,6 +66,7 @@ Evaluate the trained model on the test set:
 - Normal:
 ![alt text](https://media-hosting.imagekit.io//22d1e13fcb364511/NORMAL2-IM-1438-0001.jpeg?Expires=1834220017&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=PW02uqXhsY1UspodGAAZJV-~z0rdNQ9WObYe0aBhnLRRObtDCMXJnYXRtH~wCzIhyU5uMV0uYWJHQhUqOjD5ujAwUpvQhh237IF3wG0lwyHAixmvJSic5OQbu8eG-YBDtZFYkjBS77y8KPMZLWCNy8UUCFSW6NaKaDsQjTH-VA96~YIkPZ9uzo2Q~RFnuFQqmIMcYGqbnUEiQtK2uc~irGFf6eeoqixAtbzLX48wxwWlj5WDjXTgbfl041syiG6WsMq4j40wynBIacB0ySgFKVPtBiPm3ko5UNwodob5WzO2Cxprr8SYF8sZrs89O3PIKosxEoftsbhMp8kRRk~Atg__)
 
+
 - Pneumonia:
 ![alt text](https://media-hosting.imagekit.io//473a0ca656914ee1/person1951_bacteria_4882.jpeg?Expires=1834220181&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=g7Q9yfWqKBFZwVWrL1dH75KCNn5KrBBTeLBAnwzohu97rCBAMb4cemjSn1ohvEUpfX8j-kdQjeWlROl-iLKNnPsLacVLfzil~nBEjy0YJ5TOqGk27CWiQww4hAb52kVjRwfm0RSd2jFHGAD9LBROvAvsajsG0IxhgS5PZ9aCtqTFpVTbp1SuED-2WJ8a~iASDUb7Lzc056eQHYnXxx7b64xj-g6EwyAVx1W~6d3HcVwqiYa2sfvENoZbzWN9r2PYiL35OG5zfvL6qwMJyTKzG7wGHK8VC3ZM9yUdA9CAklInj8wRhZIqpFHWHnWi1d2zFktsKpK~yX5ql~wh28RXaQ__)
 
