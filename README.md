@@ -73,7 +73,7 @@ Evaluate the trained model on the test set:
 
 
 
-👉 **Output:**
+👉 **Outputs:**
 
 ![alt text](https://media-hosting.imagekit.io//826ae31686914d39/Screenshot%202025-02-15%20113203.png?Expires=1834220519&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=HrXzgBECcK1Qd8Xvhl64y~Lc9MkkWYKt8tt7nOmAWbQaGfnnDLlwpwbS8-OXwFD0eJwPo5ItY~8WeUhBNujLGpxkacEthkSUGmZZIe-Pa7NE2RMwKBu5jfcK~~QIHTO-EjGWgvEOWzxUm-eivgvqlh-FIdH~bOjxMdb-4Pefwnnj9d1SkUI5PiL5XUpHHoCSmL4Hh6awfYriBNhxuYziSuzGIo5dtPYUn~BZrOn-JhgwgXcyXu1mchceJr9f-ybOZHBdsVz4~4HMVUDzhe0vKwN~yqPxUWHIcMh2e80LKMCsZPnHvkYbL~4xySPAkfN8CBltPUpo4ouqgtxhUpagDw__)
 
