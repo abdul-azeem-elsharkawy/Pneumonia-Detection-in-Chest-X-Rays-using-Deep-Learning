@@ -64,7 +64,7 @@ Evaluate the trained model on the test set of Chest X-Ray Images (Pneumonia) dat
 
 - **Confusion Matrix:**
 
-![alt text](https://i.postimg.cc/V6wcPbJZ/Screenshot-2025-04-04-175557.png))
+![alt text](https://i.postimg.cc/V6wcPbJZ/Screenshot-2025-04-04-175557.png)
 ---
 
 ## 🎨 Example Predictions
