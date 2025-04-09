@@ -12,7 +12,7 @@ The model is built on **ResNet18**, a pretrained convolutional neural network (C
 
 ## 📂 Dataset
 
-We used chest X-ray datasets from **Kaggle**, combining multiple sources to ensure diversity, robustness, and ovvercome unbalanced classes. The images were manually sorted into two classes:
+We used chest X-ray datasets from **Kaggle**, combining multiple sources to ensure diversity, robustness, and overcome unbalanced classes. The images were manually sorted into two classes:
 
 - **Normal**: Healthy lung X-ray images
 - **Pneumonia**: X-rays indicating pneumonia infection
@@ -30,7 +30,7 @@ We used chest X-ray datasets from **Kaggle**, combining multiple sources to ensu
 We utilize a **pretrained ResNet18** model, modifying its final classification layer for binary classification:
 
 - **Base Model:** ResNet18 (pretrained on ImageNet)
-- **Final Layer:** Fully Connected Layer → `nn.Linear(512, 2)`
+- **Final Layer:** Fully Connected Layer → `nn.Linear(model.fc.in_features, 2)`
 - **Activation Function:** Softmax
 - **Optimizer:** Adam (`lr=0.001`, `weight_decay=1e-4`)
 - **Loss Function:** Cross-Entropy Loss
